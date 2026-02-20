@@ -171,4 +171,4 @@ body {
 
 
 ## OUTPUT
-![DAY-5 OUTPUT](../img/day-5-output.png)
+![DAY-5 OUTPUT](img/day-5-output.png)
